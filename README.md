@@ -1,5 +1,5 @@
 # fs2-jdbc
-A thin JSBC wrapper for FS2
+A thin JDBC wrapper for FS2
 
 You can find an article going through some of the details on it here:
 
